@@ -1,3 +1,5 @@
+## Credits
+-@Nic-Team5
 # MXW01 API Reference (MicroPython, Raspberry Pi Pico W)
 
 A MicroPython library for the MXW01 thermal receipt printer, driven over Bluetooth Low Energy (BLE).
